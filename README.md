@@ -25,6 +25,9 @@ python_use_case/<br>
 data.json → Contains all user expense entries
 Each record includes date, category, amount, and description
 
+## Summary Chart
+<img width="1122" height="936" alt="image" src="https://github.com/user-attachments/assets/a63e983c-726d-439f-a777-1900b6d5e9a9" />
+
 ## Technologies Used
 Python
 JSON
