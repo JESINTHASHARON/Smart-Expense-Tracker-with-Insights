@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2026-03-01",
+        "category": "Food",
+        "amount": 500.0,
+        "description": "Lunch spent on 240, evening:100 and for night 160"
+    },
+    {
+        "date": "2026-03=02",
+        "category": "Outing",
+        "amount": 400.0,
+        "description": "Shopping at DMart"
+    }
+]
